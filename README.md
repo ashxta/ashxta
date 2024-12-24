@@ -1,10 +1,9 @@
-Thank you for visiting my profile.
-I am Ashita, currently pursuing BTech in Computer Science and Engineering from SRM Institute of Science and Technology, Kattankulathur. I am an aspiring Data Analyst and strive to improve my skills as much as I can and become a successful engineer.
-I had Computer Science in my high school (Blue Bells Model School, Gurugram), which helped me in creating my base in Python language.
-I am familiar with Python and currently working on C++ skills. 
-I have done the following certification courses which helped me a lot from my Basic to Advanced Python skills:
- - **Machine Learning with Python course from Acmegrade (in collaboration with MOOD INDIGO IIT BOMBAY)**
- - **Python CS50 course from Harvard**
- - **Programming Foundations: Fundamentals from Linkedin Learning**
+👋 Hello, I'm Ashita!
+I am currently pursuing a B.Tech in Computer Science and Engineering at SRM Institute of Science and Technology, Kattankulathur. As an aspiring Data Analyst, I am deeply passionate about transforming raw data into meaningful insights and continuously enhancing my technical skill set to become a successful engineer.
+My journey into the world of programming began in high school at Blue Bells Model School, Gurugram, where I built a strong foundation in Python. Over time, I have expanded my expertise and am now actively honing my Data Analysis skills to strengthen my problem-solving abilities further.
 
-I am also pursuing a few other courses, which I will update when I finish. Till then I will work on improving my skills!
+🚀 What Drives Me?
+Curiosity, consistency, and an eagerness to learn drive my passion for technology. I thrive on challenges that push me to think critically and innovate solutions.
+Let's connect and collaborate on exciting projects!
+🌟 Explore my repositories to know more about my work!
+Feel free to suggest any specific additions or preferences! 😊
