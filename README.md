@@ -49,7 +49,7 @@ A Power BI-driven content analytics project using Netflix’s global catalogue.
 
 - 📍 Chennai, India  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashita-a-602001282/)  
-- 🌐 Portfolio Website: _Coming Soon_
+- 🌐 Portfolio Website: https://ashita-aboutme.netlify.app/
 
 ---
 
