@@ -1,56 +1,78 @@
-# 👩‍💻 Ashita | Data Analyst | Python | Power BI | SQL
 
-Welcome to my GitHub! I'm Ashita — a data analyst in the making, passionate about turning complex datasets into clear, actionable insights. My work focuses on **HR analytics**, **business performance**, and **consumer behavior**, driven by real-world data and powered by Python, Power BI, and SQL.
+# 👋 Hi, I'm Ashita!
 
----
-
-## 🧠 Featured Projects
-
-### 📊 [HR Attrition Analysis & Prediction](https://github.com/ashxta/HR-Data-Analytics-ML)
-A full machine learning pipeline to analyze and predict employee attrition.
-
-- Built a Random Forest model achieving 80%+ accuracy
-- Used SMOTE, clustering, and feature importance for insight generation
-- Showed that a targeted 10% salary raise could reduce attrition by 5–7%
-- Delivered department-level risk, manager tenure, and work-life balance insights
+🎓 **BTech CSE @ SRM Institute of Science & Technology**
+💡 **Aspiring Data Analyst | AI Enthusiast | Full-Stack Developer**
+🌍 Based in Gurgaon, India
 
 ---
 
-### 🏬 [Walmart Sales Performance Dashboard](https://github.com/ashxta/Walmart-Data-Analysis)
-An interactive Power BI dashboard exploring 3 years of sales data.
+## 🌟 About Me
 
-- Improved holiday sales forecasting by 25%
-- Analyzed effects of CPI, fuel prices, and temperature on revenue
-- Found that 92% of sales occur outside holiday periods, influencing campaign planning
-
----
-
-### 🎬 [Netflix Content & Viewer Trends](https://github.com/ashxta/Netflix-Data-Analysis)
-A Power BI-driven content analytics project using Netflix’s global catalogue.
-
-- Identified top-performing genres and ratings by region
-- Found that TV-MA rated content dominated global viewership
-- Visualized release patterns to help inform content drop strategy
+✨ Passionate about turning **data into insights** and **ideas into applications**.
+✨ Skilled in **Data Analysis, AI/ML, and Web Development**.
+✨ Love building projects that blend **creativity, problem-solving, and impact**.
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠️ Tech Toolbox
 
-**Languages & Libraries**: Python (pandas, seaborn, matplotlib, scikit-learn), SQL, C/C++  
-**Analytics & Modeling**: EDA, Classification, Clustering, SMOTE, Feature Importance  
-**Visualization**: Power BI, Excel, Matplotlib  
-**Databases**: MySQL, Google Sheets  
-**Tools**: GitHub, Jupyter, IDLE, mysql.connector  
-**Soft Skills**: Insight Communication, Detail-Oriented, Self-Starter
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 [**HR Data Analysis & Attrition Prediction**](https://github.com/ashxta/HR-Data-Analytics-ML)
+📊 ML models that reduced HR replacement costs by ₹50L annually.
+
+🔹 [**Deadlinely – AI Task Manager**](https://github.com/ashxta/Deadlinely)
+🤖 AI-powered productivity app with a futuristic UI & smart task optimization.
+
+🔹 [**Netflix Data Analysis**](https://github.com/ashxta/Netflix-Data-Analysis)
+🎬 Data-driven insights on global streaming trends & localization gaps.
+
+---
+
+## 🏆 Achievements
+
+🏅 **Flipkart Grid 7.0** – National Semi-Finalist
+💡 **Hack4Bihar 2025** – Built a health-tech MVP shortlisted in competition
+📜 Certified in: Google Data Analytics | Tata Data Visualization | Oracle Cloud | CS50 Python | NPTEL Java
+
+---
+
+## 📈 GitHub Stats
+
+![Ashita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashxta\&show_icons=true\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashxta\&layout=compact\&theme=radical)
+
+---
+
+## 🌱 Current Goals
+
+* 🔍 Master advanced **data science and analytics** techniques
+* ☁️ Explore **AI + Cloud Computing** integrations
+* 🏗️ Build impactful **AI-powered applications**
+* 🎯 Secure a **Data Analyst internship** to apply my skills in industry
 
 ---
 
 ## 📫 Connect With Me
 
-- 📍 Chennai, India  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashita-a-602001282/)  
-- 🌐 Portfolio Website: https://ashita-aboutme.netlify.app/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ashita-a-602001282/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge\&logo=Firefox-Browser\&logoColor=white)](https://portfolio-ashita.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ashxta)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:eeshosingh@gmail.com)
 
 ---
 
-Thank you for visiting! ⭐ Feel free to fork, explore, or connect.
+✨ *“Passionate about solving problems with data, code, and creativity.”* ✨
+
+
