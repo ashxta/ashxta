@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Ashita!
 
 🎓 **BTech CSE @ SRM Institute of Science & Technology**
-💡 **Aspiring Data Analyst | AI Enthusiast | Full-Stack Developer**
+💡 **Aspiring Data Analyst | AI Enthusiast **
 🌍 Based in Gurgaon, India
 
 ---
