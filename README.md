@@ -1,6 +1,4 @@
-use this resume now,
-
-# 👋 Hi, I'm Ashita!
+👋 Hi, I'm Ashita!
 🎓 **BTech CSE @ SRM Institute of Science & Technology**
 💡 **Aspiring Data Analyst | AI Enthusiast **
 🌍 Based in Gurgaon, India
@@ -29,7 +27,7 @@ use this resume now,
 🏅 **Tech M Code 2026** – National Finalist
 🏅 **Flipkart Grid 7.0** – National Semi-Finalist
 💡 **Hack4Bihar 2025** – Built a health-tech MVP shortlisted in competition
-📜 Certified in: Google Data Analytics | Tata Data Visualization | Oracle Cloud | CS50 Python | NPTEL Java
+📜 Certified in: Google Data Analytics | Tata Data Visualization | Oracle Cloud | CS50 Python | NPTEL Java | SAP Implementation Consultant
 ---
 ## 📈 GitHub Stats
 ![Ashita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashxta\&show_icons=true\&theme=radical)
