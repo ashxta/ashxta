@@ -79,14 +79,7 @@ I sit where machine learning meets a real decision. On one side that's Python, S
 🏅 **Flipkart Grid 7.0** — National Semi-Finalist
 📜 **Certified in:** SAP Implementation Consultant · Google Data Analytics · Oracle Cloud Infrastructure · CS50 Python (Harvard)
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashxta&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F7A62&icon_color=A67C2E&text_color=8B949E&cache_seconds=86400" alt="Ashita's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashxta&layout=compact&hide_border=true&bg_color=00000000&title_color=2F7A62&text_color=8B949E&cache_seconds=86400" alt="Top languages" />
-</p>
 
 ---
 
